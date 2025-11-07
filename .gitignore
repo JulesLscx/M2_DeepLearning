@@ -1,0 +1,5 @@
+./tf
+./tf/*
+.DS_Store
+.vscode/
+.idea/
